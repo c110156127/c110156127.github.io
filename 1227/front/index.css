@@ -1,0 +1,13 @@
+body{
+    background-image: url("http://localhost/1227/picture/desk.jpg");
+    display: flex;
+    background-size: cover;
+    justify-content: center; 
+    align-items: center;
+}
+.background{
+    background-color: white;
+    width: 800px;
+    height: 600px;
+    opacity: 0.9;
+}
